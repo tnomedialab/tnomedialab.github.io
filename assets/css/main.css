@@ -726,6 +726,10 @@
             content: "\f167";
         }
 
+        ul li.li-slideshare:before {
+            content: "\f1e7";
+        }
+
         ul li.li-facebook:before {
             content: "\f082";
         }
